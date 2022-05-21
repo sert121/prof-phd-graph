@@ -5,8 +5,9 @@ The phD students and professors are selected from an active community of researc
 Each node represents a user, and an edge symbolises interaction (on the basis of quote-tweets/replies) between two users.    
  
 ## Usage
-The graph is deployed at []. For development, feel free to fork/star this repository. 
-To develop this locally, execute the following steps:   
+The graph is deployed at [].   
+For development, feel free to fork/star this repository.   
+To develop this locally, execute the following steps:     
 ```python
 pip install -r requirements
 streamlit run stream.py
